@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Kramer",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Cosmo_Kramer.jpg/250px-Cosmo_Kramer.jpg"
+
+  },
+  {
+    "id": 2,
+    "name": "Jerry",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Jerry_Seinfeld.jpg/250px-Jerry_Seinfeld.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "Elaine",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/33/Elaine-benes-3707.jpg"
+
+  },
+  {
+    "id": 4,
+    "name": "George",
+    "image": "https://vignette.wikia.nocookie.net/seinfeld/images/7/76/George-costanza.jpg/revision/latest?cb=20110406222711"
+
+  },
+  {
+    "id": 5,
+    "name": "Kramer2",
+    "image": "https://i.pinimg.com/originals/a7/8c/48/a78c48537842cfe9e75f9be7d4b05334.jpg"
+
+  },
+  {
+    "id": 6,
+    "name": "Jerry2",
+    "image": "http://www.watch-id.com/sites/default/files/upload/sighting/Breitling-watch-Jerry-Seinfeld-2.jpg"
+
+  },
+  {
+    "id": 7,
+    "name": "Elaine2",
+    "image": "https://vignette.wikia.nocookie.net/seinfeld/images/5/57/Elaine.jpg/revision/latest?cb=20110915222502"
+
+  },
+  {
+    "id": 8,
+    "name": "George2",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/George_Costanza.jpg/220px-George_Costanza.jpg"
+
+  },
+  {
+    "id": 9,
+    "name": "Kramer3",
+    "image": "https://pbs.twimg.com/profile_images/970500599/kramer_large_400x400.jpg"
+
+  },
+  {
+    "id": 10,
+    "name": "Jerry3",
+    "image": "http://www.seinfeldscripts.com/images/seinfeld1.jpg"
+
+  },
+  {
+    "id": 11,
+    "name": "Elaine3",
+    "image": "http://www.leadersayswhat.com/wp-content/uploads/2015/07/julia-louis-dreyfus.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "George3",
+    "image": "https://vignette.wikia.nocookie.net/p__/images/b/b7/Costanza_Boy.jpeg/revision/latest?cb=20160427150705&path-prefix=protagonist"
+
+  }
+]
