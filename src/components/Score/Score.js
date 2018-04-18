@@ -5,17 +5,18 @@ import "./score.css";
 class Score extends React.Component {
     state = {
         score: 0,
-        // topScore
+        topScore: 0
     };
 
     render() {
         return (
             <nav className="navbar fixed-top navbar-light bg-light">
-                <ul>
-                <li>Clicky Game</li>
-                <li>Click an Image</li>
-                <li>Score:{this.state.score}</li>
-                </ul>
+                
+                <p>Clicky Game</p>
+                <p>Click an Image</p>
+                <p>Score: {this.state.score}</p>
+                <p>Top Score: {this.state.topScore}</p>
+                
             </nav>
         )
 
